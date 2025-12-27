@@ -21,7 +21,7 @@ to understand how a webhook-based service works and how to contribute to it.
    3. idempotency;
    4. operational troubleshooting.
 
-🔗 https://github.com/123
+🔗 [webhook-receiver-onboarding-template](https://github.com/lock-books-games/webhook-receiver-onboarding-template)
 
 ---
 
